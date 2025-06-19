@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vansh-cryp/backend.git"
+  },
+  "keywords": [
+    "endback"
+  ],
+  "author": "vansh Gusain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vansh-cryp/backend/issues"
+  },
+  "homepage": "https://github.com/vansh-cryp/backend#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
